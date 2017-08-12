@@ -5,7 +5,7 @@
 
 layout: default
 title: Home
-permalink: pretty
+permalink: /index/
 ---
 
 
