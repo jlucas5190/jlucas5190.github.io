@@ -4,7 +4,7 @@ layout: default
 
 ## The Twelve Steps
 
-1). We admitted that we were powerless over lust—that our lives had become unmanageable.
+1. We admitted that we were powerless over lust—that our lives had become unmanageable.
 2. Came to believe that a Power greater than ourselves could restore us to sanity.
 3. Made a decision to turn our will and our lives over to the care of God as we understood Him.
 4. Made a searching and fearless moral inventory of ourselves.
