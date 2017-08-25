@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## UNDER CONSTRUCTION
 
-_yay_
+UNDER CONSTRUCTION
 
 [back](./)
