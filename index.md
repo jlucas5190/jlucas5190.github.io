@@ -24,7 +24,7 @@ Through long and painful experience, we came to realize that we were powerless o
 - 5 Pillars
 	 - 1) [Meetings](meetings-page)
 	 - 2) [Sponsors](sponsors-page)
-	 - 3) [12 steps](tweleve-steps-page)
+	 - 3) [SAA-12 steps](saa-twelve-steps-page) / [SA-12 steps](sa-twelve-steps-page)
 	 - 4) [Spiritual growth](spiritual-growth-page)
 	 - 5) [Counseling](counseling-page)
 

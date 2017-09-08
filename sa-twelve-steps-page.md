@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## The Twelve Steps
+## Sexaholics Anonymous Twelve Steps
 
 1. We admitted that we were powerless over lust—that our lives had become unmanageable.
 2. Came to believe that a Power greater than ourselves could restore us to sanity.
